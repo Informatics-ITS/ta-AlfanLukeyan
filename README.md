@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: ALFAN LUKEYAN RIZKI
+**NRP**: 5025211046
+**Judul TA**: Rekayasa Ulang LMS Bahasa Inggris Pada Sisi Front End Menggunakan Kakas Bantu React Native Dan Kerangka Kerja Expo
+**Dosen Pembimbing**: RATIH NUR ESTI ANGGRAINI, S.KOM, M.SC., PH.D.
+**Dosen Ko-pembimbing**: BINTANG NURALAMSYAH, S.KOM., M.KOM.
 
 ---
 
@@ -21,29 +21,26 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
 ## 🛠 Panduan Instalasi & Menjalankan Software  
 
 ### Prasyarat  
-- Daftar dependensi (contoh):
-  - Python 3.10+
-  - Node.js v18+
-  - MySQL 8.0
-  - [Lainnya...]
+- Node.js (v20 atau lebih baru)
+- Expo CLI (v9 atau lebih baru)
+- React Native (v0.72 atau lebih baru)
+
 
 ### Langkah-langkah  
 1. **Clone Repository**  
    ```bash
-   git clone https://github.com/Informatics-ITS/TA.git
+   git clone https://github.com/Informatics-ITS/ta-AlfanLukeyan.git
    ```
 2. **Instalasi Dependensi**
    ```bash
    cd [folder-proyek]
-   pip install -r requirements.txt  # Contoh untuk Python
-   npm install  # Contoh untuk Node.js
+   npm install
    ```
 3. **Konfigurasi**
 - Salin/rename file .env.example menjadi .env
 - Isi variabel lingkungan sesuai kebutuhan (database, API key, dll.)
 4. **Jalankan Aplikasi**
    ```bash
-   python main.py  # Contoh untuk Python
    npm start      # Contoh untuk Node.js
    ```
 5. Buka browser dan kunjungi: `http://localhost:3000` (sesuaikan dengan port proyek Anda)
@@ -71,5 +68,5 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [email@mahasiswa]
+- Penulis: alfanlukeyanrizki@gmail.com
 - Pembimbing Utama: [email@pembimbing]
